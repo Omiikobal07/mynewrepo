@@ -1,7 +1,7 @@
 {
   "name": "Node js develoepr",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://yujisatojr.github.io/react-portfolio-template",
   "dependencies": {
     "@emotion/react": "^11.11.4",
